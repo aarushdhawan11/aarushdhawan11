@@ -58,15 +58,15 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushdhawan1511&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushdhawan11&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarushdhawan1511&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aarushdhawan11&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarushdhawan1511&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarushdhawan11&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
